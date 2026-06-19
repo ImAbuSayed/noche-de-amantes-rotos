@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de amantes rotos
+
+This log tracks the cryptographic history and versioning for the song **Noche de amantes rotos** (noche-de-amantes-rotos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T02:21:21.042845 | `v1` | `16450d3eb7442ba85d80cfde348062b52376f1135332a0513aa08bc3d852f592` | `70984fd55c60875e0d20aa9700569096c3ded686f2e7f7c172b252ae64c4ecf2` | `2026-06-20_noche-de-amantes-rotos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
