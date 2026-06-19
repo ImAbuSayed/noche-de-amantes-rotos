@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-amantes-rotos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Noche de amantes rotos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-amantes-rotos/) |
+| **Get License** | [License this song: Noche de amantes rotos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-amantes-rotos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, tú sabes que esta noche no hay freno
+> Bajo las luces de Madrid, el ambiente está veneno
+> Me cruzas la mirada y me dejas envuelto
+> Es un juego prohibido, un deseo no resuelto
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
