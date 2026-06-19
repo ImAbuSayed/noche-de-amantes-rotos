@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-amantes-rotos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Noche de amantes rotos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-amantes-rotos/) |
+| **Get License** | [License this song: Noche de amantes rotos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-amantes-rotos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3759)
+- [Telegram](https://t.me/AbuSayedMusic/3777)
 
 ---
 
