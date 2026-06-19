@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Noche de
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:21:21.042845 | `v1` | `16450d3eb7442ba85d80cfde348062b52376f1135332a0513aa08bc3d852f592` | `70984fd55c60875e0d20aa9700569096c3ded686f2e7f7c172b252ae64c4ecf2` | `2026-06-20_noche-de-amantes-rotos-v1.txt` |
+| 2026-06-20T03:09:54.703470 | `v2` | `3236dbdd61d26ac7b899bac910f43bcfce4df0167e5cb7c72dc49ea1f9eff503` | `fdb23f9501c16ae5cac006295ef6ad34c86a9dbdf46e4e71ea2ed77b6fdf9632` | `2026-06-20_noche-de-amantes-rotos-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
